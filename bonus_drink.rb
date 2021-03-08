@@ -1,3 +1,8 @@
+class BonusDrink
+   def self.total_count_for(amount)
+     0
+   end
+ end
 p "set the first amount"
 amount=gets().to_i
 a01= 0
